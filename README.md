@@ -4,7 +4,7 @@ Uses Ultrasonic Sensor to detect objects and send a signal through NRF24L01 chip
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The Ultasonic Sensor will send signal to the buzzer through NRF24L01 chip when it decets an object. and the buzzer will buzz. 
 
 ### Parts
 
